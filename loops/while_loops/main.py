@@ -8,6 +8,6 @@ while current_number > 0:
     countdown_values.append(current_number)
     current_number -= 1
 
-print("Dsicount countdown complete!")
+print("Discount countdown complete!")
 print(countdown_values)
     
